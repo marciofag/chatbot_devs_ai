@@ -1,1 +1,1 @@
-# chatbot_devs_ai
+Chatbot focado em responder perguntas sobre programação, utilizando a API do Google Generative AI. Este chatbot será capaz de processar consultas de usuários sobre conceitos de programação, buscar informações relevantes em um conjunto de documentos sobre programação e gerar respostas baseadas nessas informações.
